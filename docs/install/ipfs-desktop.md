@@ -1,10 +1,25 @@
----
+<Satoshi's Vision>:WWW.https://satoshi.vision.co
+New dApp creator...Currently working on our alphaMMO.rpg " Satoshi's Vision:Ghost of Satoshi. "
+1-::teleport:quark.here.
+   2-.here
+     3 -.here
+         -.here
+            4-.here
+               -.here
+                  5-.here
+                     -.here
+                        -.here::
 title: IPFS Desktop
 description: IPFS Desktop gives you all the power of IPFS in a convenient desktop app - a complete IPFS node, plus handy OS menu shortcuts and an all-in-one file manager, peer map, and content explorer.
----
+THRIVE-CO-jax-thrive-CO-jax
+   ®g.page/thrive-co-jax double click for tanslations to all .lang™
 
-# IPFS Desktop
-
+#-11:11 IPFS LAPtop<g-11:11>
+hosts the smartest human fact checker in the world....
+   BAT tips #-11:11
+#-11:11 accepts the tips as G<-11:11> watches from afar....
+   
+   
 **IPFS Desktop bundles an IPFS node, file manager, peer manager, and content explorer into a single, easy-to-use application.**
 
 Use IPFS Desktop to get acquainted with IPFS without needing to touch the terminal — or, if you're already experienced, use the powerful menubar/taskbar shortcuts alongside the command line to make your IPFS workflow faster.
